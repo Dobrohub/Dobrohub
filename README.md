@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут <a href="https://github.com/bazraider" target="_blank">Василий</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я Fullstack-разработчик :мужчина-технолог:</h3>
+<h3 align="center">Я Fullstack-разработчик 👨‍💻 </h3>
 ---
 ### Контакты:
 [<img align="left" alt="bazraider | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />](https://www.linkedin.com/in/bazraider/)
@@ -26,10 +26,10 @@
 <br/>
 <br/>
 <br/>
-- **Фронтенд**: JavaScript, React, Redux (Saga, Thunk), HTML5, CSS3
-- **Бекенд**: Node.js, Express, Sessions/Tokens, WebSockets, Handlebars
-- **Базы данных**: PostgreSQL, Sequelize ORM
-- **Тестирование**: Jest
+**Фронтенд**: JavaScript, React, Redux (Saga, Thunk), HTML5, CSS3
+**Бекенд**: Node.js, Express, Sessions/Tokens, WebSockets, Handlebars
+**Базы данных**: PostgreSQL, Sequelize ORM
+**Тестирование**: Jest
 ---
 <!---
 bazraider/bazraider is a :искры: special :искры: repository because its `README.md` (this file) appears on your GitHub profile.
