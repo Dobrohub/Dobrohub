@@ -1,7 +1,9 @@
-<h1 align="center">Привет, меня зовут <a href="https://github.com/bazraider" target="_blank">Василий</a>
+<h1 align="center">Привет, меня зовут <a href="https://github.com/bazraider" target="_blank">Сергей</a> и я Fullstack-разработчик 👨‍💻
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я Fullstack-разработчик 👨‍💻 </h3>
+<h4 align="center">Занимаюсь разработкой более года. Глубокие знания по Frontend и Backend. Большой опыт работы с API. Эффективно взаимодействую внутри команды и со смежными отделами. Быстро ориентируюсь в чужом коде и адаптируюсь к требованиям разработки. Хорошо развиты аналитические способности и навыки организации времени.</h4>
+
 ---
+
 ### Контакты:
 [<img align="left" alt="bazraider | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />](https://www.linkedin.com/in/bazraider/)
 [<img align="left" alt="bazraider | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />](https://t.me/bazraider)
@@ -9,7 +11,9 @@
 [<img align="left" alt="bazraider | Mail" width="40px" src="https://papik.pro/uploads/posts/2022-01/1643628397_1-papik-pro-p-pochta-logotip-1.png" />](mailto:baz_raider@mail.ru)
 <br/>
 <br/>
+
 ---
+
 ### Мой стек:
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
