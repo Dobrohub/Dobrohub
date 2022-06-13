@@ -29,12 +29,13 @@
 <br/>
 <br/>
 <br/>
+
 **Фронтенд**: JavaScript, React, Redux (Saga, Thunk), HTML5, CSS3
+
 **Бекенд**: Node.js, Express, Sessions/Tokens, WebSockets, Handlebars
+
 **Базы данных**: PostgreSQL, Sequelize ORM
+
 **Тестирование**: Jest
+
 ---
-<!---
-bazraider/bazraider is a :искры: special :искры: repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
